@@ -1,2 +1,2 @@
 # Color-Detector
-This project is built with python, libraries &amp; Modules.
+Developed a Python application for detecting and identifying colors in images using libraries such as tkinter for the graphical user interface, PIL (Pillow) for image handling, and ColorThief for extracting dominant colors. Integrated filedialog for file selection and os for file management, enabling users to easily load and analyze images. The project features real-time color detection and intuitive visualization of color information.
